@@ -104,6 +104,6 @@ class FaceRecognition:
         cv2.destroyAllWindows()
 
 
-if __name__ == '__main__':
-    fr = FaceRecognition()
-    fr.run_recognition()
+# if __name__ == '__main__':
+#     fr = FaceRecognition()
+#     fr.run_recognition()
